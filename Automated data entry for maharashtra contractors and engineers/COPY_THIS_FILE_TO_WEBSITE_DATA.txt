@@ -1,0 +1,12 @@
+addRows();
+addRows();
+addRows();
+document.getElementById('num1').value = 'None';
+document.getElementById('len1').value = 'None';
+document.getElementById('bre1').value = 'None';
+document.getElementById('dep1').value = 'None';
+document.getElementById('hm1').checked  = true;
+calculateQty(1);
+calculateQty(2);
+calculateQty(3);
+calculateQty(4);
