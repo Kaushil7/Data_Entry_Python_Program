@@ -1,5 +1,7 @@
-*************EASY PWD (https://ams.emahapwd.com/ams/login.do entry) *************
-Useful for Contractors and engineers of Maharashtra state who want to automate data entry on state government website
+EASY PWD Data Entry (https://ams.emahapwd.com/ams/login.do entry) 
+Useful for Contractors and Civil Engineers of Maharashtra state who want to automate data entry on state government website
+As all the quantities and data to the website can be entered at once instead of manually copying each and every dimension and quantities
+
 please enter proper row details in integer only
 copy the contents of the file of .txt to javascript console
 There is source code provided with instructions.
