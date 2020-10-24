@@ -3,7 +3,7 @@ from openpyxl import load_workbook
 print('MADE BY KAUSHIL NAGRALE\n')
 print('*************EASY PWD (https://ams.emahapwd.com/ams/login.do entry) *************\n')
 print('*************NOTE ENTER DATA FROM FIRST ROW *************\n')
-f= open("javasc.txt","w+")
+f= open("javaSc.txt","w+")
 print('Keep the File inside the same directory as this .py file\n')
 
 #Taking the details of Excel file as inputs
