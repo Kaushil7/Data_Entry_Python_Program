@@ -15,6 +15,6 @@ and dont change name of the worksheet for .exe file.
 
 (Maintain continuity in the data which is entered in the excel sheet)
 2.Copy the contents of the file of .txt file generated to javascript console also images are attached for better 
-understanding.
+clarity.
 
 Further Queries Contact kaushil.nagrale@gmail.com
