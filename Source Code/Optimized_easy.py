@@ -2,7 +2,7 @@
 from openpyxl import load_workbook
 print('*************NOTE ENTER DATA FROM FIRST ROW *************\nMADE BY KAUSHIL NAGRALE\n')
 print('*************EASY PWD (https://ams.emahapwd.com/ams/login.do entry) *************\n')
-f= open("COPY_THIS_FILE_TO_WEBSITE_DATA.txt","w+")
+f= open("COPY_THIS_FILE_TO_WEBSITE_JS.txt","w+")
 
 
 y=input('*************Enter the no of rows*************\n')
