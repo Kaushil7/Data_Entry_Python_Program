@@ -9,7 +9,7 @@ y=input('*************Enter the no of rows*************\n')
 count=int(1)
 
 
-# data based adding of rows
+#Data-based adding of rows
 y=int(y)
 while count < y:
      f.write('addRows();\n')
