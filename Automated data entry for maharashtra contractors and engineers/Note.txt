@@ -1,6 +1,7 @@
 *************EASY PWD (https://ams.emahapwd.com/ams/login.do entry) *************
+1. Run the EXE file, with the data put in excel file this step is important
 please enter proper row details in integer only
-copy the contents of the file of .txt to javascript console
+2. copy the contents of the file of .txt to javascript console
 Useful for Contractors and engineers who want to automate data entry on state government website
 
 Start putting data which u want to enter in the website from A column in auto excel sheet and dont change name of the worksheet
