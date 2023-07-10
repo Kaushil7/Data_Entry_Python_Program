@@ -9,6 +9,7 @@ There is also source code provided in the folder with two variants of codes, als
 INSTRUCTION 
 Note: Please enter proper row details in an integer only
 
+<h2>CODE THAT NEEDS TO BE PASTE INTO CONSOLE</h2>
 ![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/fb41ebcf-111e-4b1e-aa31-bfc53a694391)
 
 <h2>BEFORE</h2>
