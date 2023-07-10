@@ -1,5 +1,10 @@
 #importing openpxyl to read excel files
 from openpyxl import load_workbook
+import os
+
+# get the current working directory
+current_working_directory = os.getcwd()
+
 print('MADE BY KAUSHIL NAGRALE\n')
 print('*************EASY PWD (https://ams.emahapwd.com/ams/login.do entry) *************\n')
 print('*************NOTE ENTER DATA FROM FIRST ROW *************\n')
@@ -7,9 +12,10 @@ f= open("javaSc.txt","w+")
 print('Keep the File inside the same directory as this .py file\n')
 
 #Taking the details of Excel file as inputs
-path_excel=input('1. Enter the Path (Excel in file in which data is present)(.xlsx ONLY)\n')
+path_excel=current_working_directory + '/Source Code/auto.xlsx' 
+path_excel= path_excel.replace('\\','/')
 work_sheet_name='auto'
-y=input('2. Enter the no of rows\n')
+y=input('Enter the no of rows\n')
 count=1
 count=int(count)
 
