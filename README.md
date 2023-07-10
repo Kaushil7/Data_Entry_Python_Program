@@ -8,9 +8,13 @@ The data to the website can be entered at once instead of manually copying each 
 There is also source code provided in the folder with two variants of codes, also included with instructions.
 INSTRUCTION 
 Note: Please enter proper row details in an integer only
-Run the .exe file to generate .txt file.
 
-Note: Maintain continuity in the data which is entered in the Excel sheet
+![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/a8b3a205-6271-47c3-82c6-34c17c45a850)
+
+The mapping of the Ubove columns is direct into the AUTO.xlsx provided
+
+Run the .exe file to generate .txt file or Use the source code and run in case you don't have Python
+
 2. Copy the contents of the file .txt file generated to the javascript console, even images are attached in the source code folder for better 
 clarity.
 
