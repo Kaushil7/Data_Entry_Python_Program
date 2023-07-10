@@ -19,8 +19,7 @@ rowss=int(input('Enter the no of rows\n'))
 
 #Data-based adding of rows
 for x in range(2,rowss+1):
-     print(x)
-     f.write('addRows();\n')
+    f.write('addRows();\n')
 
 #counting and iteration variable
 x = 1
@@ -47,7 +46,7 @@ de = [column[e].value for e in range(len(column))]
 
 #Loop for to print the Javascript Command to insert data in rows
 try:
-    while x <= rowss:
+    for x in range(1,rowss+1):
       row = ('''document.getElementById('remarks%d').value = '%s';\n''' %(x,re[x-1]))
       if re[x-1]  != None:
            f.write(row)
@@ -60,8 +59,7 @@ try:
       row = ('''document.getElementById('dep%d').value = '%s';\n''' %(x,de[x-1]))
       f.write(row)
       row = ('''document.getElementById('hm%d').checked  = true;\n''' %x)
-      f.write(row)
-      x=x+1
+      f.write(row)      
 except:
     print("Not enough data")
   
