@@ -21,12 +21,12 @@ Copy the contents of the .txt file generated to the javascript console.
 ![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/6afe0b34-15cc-46d3-b16a-4b0892bd1af6)
 
 
-<h3>BEFORE EXECUTION</h3>
+<h3>BEFORE EXECUTION ON CONSOLE</h3>
 
 ![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/e6f93e76-dd84-4933-ba5f-edf91638416a)
 
 
-<h3>AFTER EXECUTION</h3>
+<h3>AFTER EXECUTION ON CONSOLE</h3>
 
 ![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/ff8f807c-cd9c-4fab-a6ec-5d78267e4748)
 
