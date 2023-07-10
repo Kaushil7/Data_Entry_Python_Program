@@ -9,10 +9,13 @@ There is also source code provided in the folder with two variants of codes, als
 INSTRUCTION 
 Note: Please enter proper row details in an integer only
 
-![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/e6bc60a6-4a3b-4d8b-a801-55aec00a2193)
+![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/fb41ebcf-111e-4b1e-aa31-bfc53a694391)
 
+<h2>BEFORE</h2>
+![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/86bf7e60-5cc4-4888-b97b-059ef6dd8ed2)
+
+<h2>AFTER</h2>
 ![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/9624cfee-768e-4f65-94cc-a362fe34e723)
-
 
 
 <h3>The mapping of columns is direct as shown above
