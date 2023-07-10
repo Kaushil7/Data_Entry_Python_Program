@@ -1,5 +1,4 @@
 addRows();
-addRows();
 document.getElementById('remarks1').value = '1';
 document.getElementById('num1').value = '2';
 document.getElementById('len1').value = '3';
@@ -12,12 +11,5 @@ document.getElementById('len2').value = '7';
 document.getElementById('bre2').value = '8';
 document.getElementById('dep2').value = '4';
 document.getElementById('hm2').checked  = true;
-document.getElementById('remarks3').value = '21';
-document.getElementById('num3').value = '12';
-document.getElementById('len3').value = '1231';
-document.getElementById('bre3').value = '121';
-document.getElementById('dep3').value = '12';
-document.getElementById('hm3').checked  = true;
 calculateQty(1);
 calculateQty(2);
-calculateQty(3);

@@ -21,9 +21,6 @@ rowss=int(input('Enter the no of rows\n'))
 for x in range(2,rowss+1):
     f.write('addRows();\n')
 
-#counting and iteration variable
-x = 1
-
 #Creating list to store the excel data
 re,nu,le,br,de=[],[],[],[],[]
 wb = load_workbook(path_excel)
