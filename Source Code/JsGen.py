@@ -63,5 +63,7 @@ except:
 #Loop for to print the Javascript Command to insert data in rows
 for x in range(1,rowss+1):
     f.write('calculateQty(%d);\n'%x)
+
+f.close()    
     
 print('Sucessful!! \n copy the contents of the file of .txt to javascript console')
