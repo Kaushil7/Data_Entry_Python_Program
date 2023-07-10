@@ -15,16 +15,12 @@ print('Keep the File inside the same directory as this .py file\n')
 path_excel=current_working_directory + '/Source Code/auto.xlsx' 
 path_excel= path_excel.replace('\\','/')
 work_sheet_name='auto'
-y=input('Enter the no of rows\n')
-count=1
-count=int(count)
+rowss=int(input('Enter the no of rows\n'))
 
 #Data-based adding of rows
-y=int(y)
-while count < y:
+for x in range(2,rowss+1):
+     print(x)
      f.write('addRows();\n')
-     count=count+1
-
 
 #counting and iteration variable
 x = 1
@@ -51,7 +47,7 @@ de = [column[e].value for e in range(len(column))]
 
 #Loop for to print the Javascript Command to insert data in rows
 try:
-    while x <= y:
+    while x <= rowss:
       row = ('''document.getElementById('remarks%d').value = '%s';\n''' %(x,re[x-1]))
       if re[x-1]  != None:
            f.write(row)
@@ -70,9 +66,7 @@ except:
     print("Not enough data")
   
 #Loop for to print the Javascript Command to insert data in rows
-count=1
-while count <= y:
-    f.write('calculateQty(%d);\n'%count)
-    count=count+1
+for x in range(1,rowss+1):
+    f.write('calculateQty(%d);\n'%x)
     
 print('Sucessful!! \n copy the contents of the file of .txt to javascript console')
