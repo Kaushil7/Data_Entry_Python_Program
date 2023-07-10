@@ -5,7 +5,6 @@ EASY PWD Data Entry (https://ams.emahapwd.com/ams/login.do entry)
 Useful for Contractors and Civil Engineers of Maharashtra state who want to automate data entry on state government website.
 The data to the website can be entered at-once instead of manually copying each and every dimensional quantities from every single cell of Excel.
 
-Source code is also provided in the folder in two variants of codes, also included with instructions.
 
 <h3>The mapping of columns is direct as shown below
 (PLEASE FOLLOW SAME PATTERN IN AUTO.xlsx provided)</h3>
