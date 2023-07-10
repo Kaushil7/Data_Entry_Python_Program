@@ -7,9 +7,9 @@ f= open("javaSc.txt","w+")
 print('Keep the File inside the same directory as this .py file\n')
 
 #Taking the details of Excel file as inputs
-shi=input('1. Enter the File name (Excel in file in which data is present)\n')
-bo=input('2. Enter the worksheet name\n')
-y=input('3. Enter the no of rows\n')
+path_excel=input('1. Enter the Path (Excel in file in which data is present)(.xlsx ONLY)\n')
+work_sheet_name='auto'
+y=input('2. Enter the no of rows\n')
 count=1
 count=int(count)
 
@@ -25,21 +25,21 @@ x = 1
 
 #Creating list to store the excel data
 re,nu,le,br,de=[],[],[],[],[]
-wb = load_workbook(shi+".xlsx")
-ws = wb.get_sheet_by_name(bo)
-ha = input('1. Enter the Item Measurement column\n')
+wb = load_workbook(path_excel)
+ws = wb.get_sheet_by_name(work_sheet_name)
+ha = 'A'
 column = ws[ha]
 re = [column[a].value for a in range(len(column))]
-hb = input('2. Enter the No. column\n')
+hb = 'B'
 column = ws[hb]  # Column
 nu = [column[b].value for b in range(len(column))]
-hc = input('3. Enter the Length column\n')
+hc = 'C'
 column = ws[hc]  # Column
 le = [column[c].value for c in range(len(column))]
-hd = input('4. Enter the Breadth column\n')
+hd = 'D'
 column = ws[hd]  # Column
 br = [column[d].value for d in range(len(column))]
-he = input('5. Enter the depth column\n') # Work Sheet
+he = 'E' # Work Sheet
 column = ws[he]  # Column
 de = [column[e].value for e in range(len(column))]
 
