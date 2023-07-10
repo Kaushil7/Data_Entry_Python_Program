@@ -11,6 +11,9 @@ Note: Please enter proper row details in an integer only
 
 ![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/e6bc60a6-4a3b-4d8b-a801-55aec00a2193)
 
+![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/9624cfee-768e-4f65-94cc-a362fe34e723)
+
+
 
 <h3>The mapping of columns is direct as shown above
 PLEASE FOLLOW SAME PATTERN IN AUTO.xlsx provided</h3>
