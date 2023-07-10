@@ -7,16 +7,9 @@ The data to the website can be entered at once instead of manually copying each 
 
 There is also source code provided in the folder with two variants of codes, also included with instructions.
 INSTRUCTION 
-Note: Please enter proper row details in an integer only
+1. Please enter proper row details in an integer only
 
-<h2>CODE THAT NEEDS TO BE PASTE INTO CONSOLE</h2>
-![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/fb41ebcf-111e-4b1e-aa31-bfc53a694391)
-
-<h2>BEFORE</h2>
-![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/86bf7e60-5cc4-4888-b97b-059ef6dd8ed2)
-
-<h2>AFTER</h2>
-![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/9624cfee-768e-4f65-94cc-a362fe34e723)
+![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/549779f9-07b0-44b0-bd61-a74adb41a767)
 
 
 <h3>The mapping of columns is direct as shown above
@@ -26,5 +19,21 @@ Run the .exe file to generate .txt file or Use the source code and run in case y
 
 2. Copy the contents of the file .txt file generated to the javascript console, even images are attached in the source code folder for better 
 clarity.
+
+
+<h2>OUTPUT CODE THAT NEEDS TO BE PASTE INTO CONSOLE</h2>
+
+![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/6afe0b34-15cc-46d3-b16a-4b0892bd1af6)
+
+
+<h2>BEFORE EXECUTION</h2>
+
+![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/e6f93e76-dd84-4933-ba5f-edf91638416a)
+
+
+<h2>AFTER EXECUTION</h2>
+
+![image](https://github.com/Kaushil7/Data_Entry_Python_Program/assets/69051817/ff8f807c-cd9c-4fab-a6ec-5d78267e4748)
+
 
 For further Queries Contact kaushil.nagrale@gmail.com
