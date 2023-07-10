@@ -1,18 +1,17 @@
+<h1>NOTE!</h1>
+This application is for only very specific operations and not a general solution
+
 EASY PWD Data Entry (https://ams.emahapwd.com/ams/login.do entry) 
 Useful for Contractors and Civil Engineers of Maharashtra state who want to automate data entry on state government website.
 The data to the website can be entered at once instead of manually copying each and every dimension and quantities from each single cell.
 
-There is also source code provided in the folder which has two variant of codes, also included with instruction in them.
+There is also source code provided in the folder with two variants of codes, also included with instructions.
 INSTRUCTION 
-Note: Please enter proper row details in integer only
+Note: Please enter proper row details in an integer only
+Run the .exe file to generate .txt file.
 
-1. Start putting data which u want to enter in the website from 'A'column in auto excel sheet
-and dont change name of the worksheet with is in the same subfolder as .exe file.
-
-2. Run the .exe file to generate .txt file.
-
-Note: Maintain continuity in the data which is entered in the excel sheet
-2.Copy the contents of the file of .txt file generated to javascript console, even images are attached in the source code folder for better 
+Note: Maintain continuity in the data which is entered in the Excel sheet
+2. Copy the contents of the file .txt file generated to the javascript console, even images are attached in the source code folder for better 
 clarity.
 
-Further Queries Contact kaushil.nagrale@gmail.com
+For further Queries Contact kaushil.nagrale@gmail.com
